@@ -1,0 +1,16 @@
+h3  {
+    font-size: 200%;
+    color: rgb(226, 27, 27);
+    background-color: aliceblue;
+    text-align: center;
+}
+button{
+
+    text-decoration:blue;
+
+    color: #a675b3;
+    line-height: 20px;
+    display: block;
+    margin: 20px auto;
+    font: normal 17px arial
+}

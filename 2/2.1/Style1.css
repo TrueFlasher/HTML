@@ -1,0 +1,52 @@
+h1 {
+    color: #a52a2a; 
+    font-size: 26pt; 
+    font-family: Georgia, Times, serif; 
+    text-align: center;
+    background-color:azure;
+    
+}
+
+.button1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+}
+.button2 {
+    background-color: #af574c; /* Red */
+    border: none;
+    color: white;
+    padding: 15px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+    
+}
+.button3 {
+    background-color: #4c4eaf; /* Blue */
+    border: none;
+    color: white;
+    padding: 15px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+}
+p{
+    text-align: center;
+    font-family: Georgia, Times, serif; 
+    color:rgb(0, 255, 128);
+
+}
